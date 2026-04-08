@@ -1,4 +1,4 @@
-# Imperative Programming Reflection – 
+# Imperative Programming Reflection – Cameron Long, Jenny LaFlair, Julian Davis, Kaylie Marshall
 
 ## What imperative constructs do you plan to include in your language?
 
