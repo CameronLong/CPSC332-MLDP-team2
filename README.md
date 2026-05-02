@@ -18,3 +18,21 @@ This section outlines team expectations and explains how we will collaborate eff
 
 - Collaboration approach:
   - Communicate through group discussion, text messages, and email
+
+
+##visual model
+
++–––––––––––+
+| Code Segment         |
+| Program instructions |
++–––––––––––+
+| Stack                |
+| Local variables      |
+| Function calls       |
++–––––––––––+
+| Heap                 |
+| Objects (dynamic)    |
++–––––––––––+
+| Garbage Collector    |
+| Frees unused memory  |
++–––––––––––+
